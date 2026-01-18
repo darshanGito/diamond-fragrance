@@ -1,1 +1,1 @@
-export const API_URL = "https://diamond-fragrance-backend.onrender.com";
+export const API_URL = "https://diamond-fragrance-backend-hkou.onrender.com";
